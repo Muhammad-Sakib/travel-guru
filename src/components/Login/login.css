@@ -1,0 +1,54 @@
+.login-card{
+    padding: 40px;
+    width: 400px;
+    height: 350px;
+    margin: 70px auto 0px auto;
+    border: .8px solid gray;
+}
+.login-card h3, input, label {
+    margin-bottom: 22px;
+}
+.inpt{
+    width: 100%;
+    border-width: 0 0 1px;
+    border-color: gray;
+}
+.login-btn{
+    border: none;
+    height: 35px;
+    width:100%;
+    color: black;
+    background-color: #ffc107;
+}
+.forgot{
+    float: right;
+}
+a{
+    color: orange;
+}
+.login-footer{
+    width: 300px;
+    margin: 30px auto 0px auto;
+}
+.hr-line-r{
+    float: right;
+    width: 44%;
+}
+.hr-line-l{
+    float: left;
+    width: 44%;
+    margin-right: 10px;
+}
+.cont-box{
+    margin: 10px auto 0px auto;
+    width: 100%;
+    padding: 5px;
+    height: 40px;
+    border: 0.5px solid gray;
+    border-radius: 20px;
+}
+.cont-box img{
+    height: 100%;
+    display: inline-block;
+    margin-right: 50px;
+}

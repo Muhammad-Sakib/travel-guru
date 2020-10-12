@@ -1,0 +1,22 @@
+.hotel-card{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.hotel-card img{
+    width: 100%;
+    border-radius: 5px;
+}
+.hotel-card p{
+    color: gray;
+    margin-bottom: 5px;
+}
+.star{
+    width: 20px !important;
+}
+.hotel-card h6{
+    display: inline;
+}
+.flt{
+    float: right;
+}

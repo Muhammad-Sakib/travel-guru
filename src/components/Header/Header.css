@@ -1,0 +1,42 @@
+body{
+    background: none;
+}
+
+.header{
+    padding-top: 20px;
+    margin: 0px auto 0px auto;
+    width: 75%;
+    height: 50px;
+}
+.header img{
+    height: 90%;
+    float: left;
+}
+.header input[type=text]{
+    background: none;
+    float: left;
+    padding: 6px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-left: 55px;
+    margin-top: 10px;
+    font-size: 17px;
+    color: white;
+  }
+.nav-items{
+    list-style-type: none;
+    margin: 15px 0px 0px 55px ;
+}
+a:link{
+    text-decoration: none;
+    color: gray;
+}
+.btns{
+    border: none;
+    margin: auto 0px auto 55px;
+    height: 35px;
+    width: 70px;
+    color: black;
+    background-color: #ffc107;
+    border-radius: 5px;
+}
